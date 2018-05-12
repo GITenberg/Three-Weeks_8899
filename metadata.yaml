@@ -1,5 +1,8 @@
 _repo: Three-Weeks_8899
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Glyn, Elinor
@@ -20,6 +23,8 @@ description: English aristocrat Paul Verdayne is sent to Lucerne to break up his
   to life in digital format, upholding the highest standards in ebook production and
   celebrating reading in all its forms. Look for more titles in the HarperPerennial
   Classics collection to build your digital library.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8899#Three-Weeks
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
